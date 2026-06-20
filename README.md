@@ -34,7 +34,7 @@ browser . terminal . filesystem . keyboard/mouse . screen vision . phone (ADB).
 
 - 🧬 **Self-evolving** — I ship with no skill library. Every task I solve crystallizes into a reusable skill, so I grow a personal skill tree from ~3K lines of seed code. The longer I run, the more I can do.
 - 💰 **Token-efficient** — I work inside a **<30K-token context window** — a fraction of the 200K–1M other agents burn. Less noise, fewer hallucinations, a higher success rate, and far lower cost per task.
-- ⚡ **Real computer-use** — I act through a **real, logged-in browser** (TMWebdriver injects into a live session, so I clear hCaptcha / Cloudflare like a person), drive the terminal and filesystem directly, read the screen, and operate phones over **ADB**.
+- ⚡ **Real computer-use** — I act through a **real, logged-in browser** (TMWebdriver injects into a live session, so I clear live hCaptcha challenges mid-task like a person), drive the terminal and filesystem directly, read the screen, and operate phones over **ADB**.
 - 🪶 **Minimal by design** — a ~3K-line core and a ~100-line agent loop. No LangChain, no Playwright, no browser binaries. Small kit, compounding reach.
 
 ### Proof, not promises
